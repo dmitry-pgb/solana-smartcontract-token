@@ -21,8 +21,3 @@ https://solscan.io/tx/5WmmxNKUWzNt2vqppcxn4dL42RQreFGevaj4NKAQMM18PUBxzWkwc7Vj53
 - migration to CPMM
 https://solscan.io/tx/5iHdBwV2d9RsqmawRuUSRiJfb5k22ooZTpCJhigBiXpYrbep7pK4rYKyq2MQgtiSYYTzsDB1wKtrmtx45K93D7p5?cluster=devnet
 
-
-### Contact Information
-- Telegram: https://t.me/DevCutup
-- Whatsapp: https://wa.me/13137423660
-- Twitter: https://x.com/januscutup
