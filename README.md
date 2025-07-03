@@ -1,6 +1,6 @@
 # pump.fun clone: Pumpfun Smart Contract Token 2022 (TAX TOKEN)
 
-Pump.fun smart contract that supports token 2022, tax token create, pool, migration on raydium CPMM. If you want full code or custom development, feel free to reach out of me[telegram: https://t.me/DevCutup or whatsapp: https://wa.me/13137423660].
+Pump.fun smart contract that supports token 2022, tax token create, pool, migration on raydium CPMM. If you want full code or custom development, feel free to reach out of me[telegram: https://t.me/Kei4650].
 
 ### Core Features
 - token creation (token-2022)
