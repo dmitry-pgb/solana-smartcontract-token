@@ -7,8 +7,7 @@ Pump.fun smart contract that supports token 2022, tax token create, pool, migrat
 - virtual liquidity by virtual sol
 - bonding curve for token price
 - trading (buy / sell)
-- migration on raydium CPMM
-- custom fee distribution logic is possible to implement
+
 
 program address: GY4gideNhYWJLkgxDW7q9hS6U2SrKb9AmSUbJPsWhEKB
 
